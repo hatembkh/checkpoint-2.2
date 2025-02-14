@@ -1,0 +1,16 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    background-color: grey;
+    
+}
+.grid-container{
+    display: grid;
+    display: flex;
+    grid-template-columns: 500px 500px ;
+    grid-gap: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: space-between;
+}

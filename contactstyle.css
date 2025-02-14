@@ -1,0 +1,26 @@
+body{
+    background-image: url(./photos/contact\ background.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-size: large;
+}
+.social-media{
+margin-bottom: 100px;
+margin-left: 100px;
+    align-content: flex-end;
+    
+}
+.social-media h3 i{
+    margin-right: 10px;
+}
